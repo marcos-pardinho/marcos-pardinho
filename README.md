@@ -1,8 +1,7 @@
-# Olá! 👋 Seja muito bem-vindo(a) ao meu GitHub!
+## Olá! 👋 Seja muito bem-vindo(a) ao meu GitHub!
 
-<hr>
 
-![Bem-vindo](https://images.app.goo.gl/j346x3EV28Sjeuyt8)
+![Bem-vindo](https://media1.tenor.com/m/LFQN6bh5iw8AAAAd/dog-techie.gif)
 
 <hr>
 
