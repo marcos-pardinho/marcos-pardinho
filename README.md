@@ -1,4 +1,13 @@
-## Hi there 👋
+# Olá! 👋 Seja muito bem-vindo(a) ao meu GitHub!
+
+<hr>
+
+![Bem-vindo](https://images.app.goo.gl/j346x3EV28Sjeuyt8)
+
+<hr>
+
+Explore meus projetos e fique à vontade para **contribuir** ou deixar seu **feedback**.
+
 
 <!--
 **marcos-pardinho/marcos-pardinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
